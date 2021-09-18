@@ -1,6 +1,10 @@
 #include <stdio.h>
 
+void hello(){
+ printf("Hello git!\n");
+}
+
 int main(){
- printf("Hello Git!s");
+ hello();
  return 0;
  }
